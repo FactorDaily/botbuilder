@@ -1,0 +1,18 @@
+{   "mongodbUrl": "mongodb://localhost:27017/ians",
+    "welcome_content": 
+        {
+            "card_title": "Hello 👋 ",
+            "card_subtitle": " Welocme to FactorDaily News Bot ",
+            "welcome_message": "💁 I'm here to help you to get News and Factordaily Articles"
+        },
+    "menu":
+    {
+        "ask_user_options": "Choose an option for Factordaily Articles",
+        "options": "News|Stories|Videos|(quit)"
+    },
+    "headers": {
+            "authorization":"",
+            "cookie":""
+        }
+    
+}
